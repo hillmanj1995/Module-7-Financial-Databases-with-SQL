@@ -7,10 +7,10 @@ The Analyst was tasked with building a financial database and web application by
 ## Voila
 To lauch the Voilà library, The Analyst used git bash to navigate to the folder that held their analysis code and used the command "voila <file_path>" :
 
-![voila.png]()
+![voila.png](https://github.com/hillmanj1995/Module-7-Financial-Databases-with-SQL/blob/main/Challenge/Resources/voila.png)
 
 Once the library has been deployed, the resulting application will pop up on a browser showing the analysis file:
 
-![analysis_1]()
+![analysis_1](https://github.com/hillmanj1995/Module-7-Financial-Databases-with-SQL/blob/main/Challenge/Resources/analysis_1.png)
 
-![analysis_2]()
+![analysis_2](https://github.com/hillmanj1995/Module-7-Financial-Databases-with-SQL/blob/main/Challenge/Resources/analysis_2.png)
